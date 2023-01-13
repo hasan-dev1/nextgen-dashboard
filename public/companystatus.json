@@ -1,0 +1,63 @@
+[
+    {
+        "companystatus":[
+          {
+            "id": 11,
+            "title": "total employee",
+            "totalemployee": 450,
+            "employeecount": 5
+          },
+          {
+            "id": 12,
+            "title": "Attend Today",
+            "totalemployee": 420,
+            "employeecount": 5
+          },
+          {
+            "id": 13,
+            "title": "Employee on Leaves",
+            "totalemployee": 15,
+            "employeecount": 5
+          },
+          {
+            "id": 14,
+            "title": "new Expense Request",
+            "totalemployee": 5,
+            "employeecount": 5
+          }
+        ],
+
+        "employestatus":[
+            {
+                "id":21,
+                "checkin":"10:45 am",
+                "checkout":"10:35 pm"
+            },
+            {
+                "id":21,
+                "checkin":"9:20 am",
+                "checkout":"10:35 pm"
+            },
+            {
+                "id":21,
+                "checkin":"9:15 am",
+                "checkout":"5:35 pm"
+            },
+            {
+                "id":21,
+                "checkin":"9:23 am",
+                "checkout":"5:55 pm"
+            },
+            {
+                "id":21,
+                "checkin":"9:45 am",
+                "checkout":"10:35 pm"
+            },
+            {
+                "id":21,
+                "checkin":"10:05 am",
+                "checkout":"10:35 pm"
+            }
+        ]
+    }
+]
